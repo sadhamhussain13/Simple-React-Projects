@@ -8,15 +8,15 @@ This is a simple React application that fetches random pieces of advice from the
 - Displays the fetched advice on the screen.
 - Keeps a count of how many pieces of advice have been read.
 
+## Preview
+
+![Screenshot (131)](https://github.com/user-attachments/assets/1902f955-c96a-495a-b26e-2813500cc9a7)
+
 ## Getting Started
 
 ### Prerequisites
 
 - Node.js and npm should be installed on your system.
-
-## Preview
-
-![Screenshot (131)](https://github.com/user-attachments/assets/1902f955-c96a-495a-b26e-2813500cc9a7)
 
 ### Installation
 
