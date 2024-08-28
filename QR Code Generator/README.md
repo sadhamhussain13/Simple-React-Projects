@@ -8,6 +8,11 @@ This React application allows users to generate and download QR codes based on u
 - Allows users to specify the size of the QR code.
 - Provides an option to download the generated QR code as an image file.
 
+## Preview
+
+![Screenshot (132)](https://github.com/user-attachments/assets/97d108b8-73ed-4e01-b715-5bfb5ebb363f)
+
+
 ## Getting Started
 
 ### Prerequisites
