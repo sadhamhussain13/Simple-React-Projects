@@ -27,7 +27,7 @@ This is a React project that displays a set of user cards. Each card shows infor
 
 2. Navigate to the project directory:
    ```bash
-   cd advice-generator
+   cd User Profile Card
    
 3. Install the dependencies:
    ```bash
