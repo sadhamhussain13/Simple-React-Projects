@@ -22,7 +22,7 @@ This React application allows users to generate and download QR codes based on u
 
 2. Navigate to the project directory:
    ```bash
-   cd advice-generator
+   cd QR Code Generator
    
 3. Install the dependencies:
    ```bash
