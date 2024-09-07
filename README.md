@@ -27,12 +27,12 @@ This repository contains a collection of small React projects that I have develo
 5. **QR Code Generator**
    - Allows users to input data and generate a QR code.
    - Users can download the generated QR code as an image file.
-   - [QR Code Generator README](./QR Code Generator/README.md)
+   - [QR Code Generator README](./QR%20Code%20Generator/README.md)
 
 6. **User Profile Card**
    - Displays a set of user profiles with information such as name, city, description, online status, and skills.
    - Dynamically generates user cards from a predefined dataset.
-   - [User Profile Card README](./User Profile Card/README.md)
+   - [User Profile Card README](./User%20Profile%20Card/README.md)
 
 
 ## Technologies Used
