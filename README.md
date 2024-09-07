@@ -34,3 +34,9 @@ This repository contains a collection of small React projects that I have develo
    - Dynamically generates user cards from a predefined dataset.
    - [User Profile Card README](./User Profile Card/README.md)
 
+
+## Technologies Used
+   - React: For building user interfaces and components.
+   - CSS: Styling for each project.
+   - JavaScript: Core logic for handling state, user input, and API calls.
+   - APIs: External APIs are used in projects like the Advice Generator and Currency Converter.
