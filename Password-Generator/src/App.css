@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Inter', sans-serif;
+}
+
+body{
+  background-color: aliceblue;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+.password-generator{
+  width: 500px;
+  height: 500px;
+  background-color: #f0f0f0;
+  /* margin: 100px auto; */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+.password-generator h2{
+  margin-bottom: 20px;
+  text-align: center;
+  color: crimson;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+.input-group,
+.checkbox-group,
+.button-group{
+  margin-bottom: 20px;
+}
+.checkbox-group{
+  display: flex;
+  align-items: center;
+}
+.checkbox-group input{
+  margin-right: 10px;
+}
+.input-group label{
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bolder;
+}
+.input-group input{
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 8px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+.generate-btn{
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+  margin: 10px;
+}
+.generate-btn:hover{
+  background-color: #3e3f8e;
+}
+.generate-password{
+  display: flex;
+  overflow: hidden;
+  padding: 10px;
+  border-radius: 5px;
+}
+.generate-password input{
+  width: 80%;
+  padding: 10px;
+  flex:1;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  outline: none;
+}
+.copy-btn{
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+  padding: 12px;
+}
